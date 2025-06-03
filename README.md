@@ -7,7 +7,6 @@ Access my site at [Netlify](https://ajax-sovellus.netlify.app/)
 Tein itse kaiken 
 
 
-
 ## Table of Content:
 
 - [About The App](#about-the-app)
@@ -20,34 +19,38 @@ Tein itse kaiken
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+[Ajax-sovellus] on yksinkertainen elokuvainfo-sovellus, joka käyttää Finnkinon ja OMDb:n avoimia REST API -rajapintoja. Sovelluksen avulla käyttäjä voi:
+
+- Valita elokuvateatterin pudotusvalikosta
+- Nähdä teatterin käynnissä olevat elokuvat ja niiden kuvat ja ajat
+- Hakea lisätietoa elokuvasta OMDb:n kautta elokuvan nimellä
+
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![image](https://github.com/user-attachments/assets/8bbca760-eb19-41df-ba40-c07cf2006999)
+![image](https://github.com/user-attachments/assets/017286e0-d7ac-4b31-8997-46305deebfe6)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+I used the following technologies `html`, `css`, `javascript` ja `ajax`
+
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
+1. Lataa kaikki tiedostot tai kloonaa tämä repositorio GitHubista
+2. Avaa `index.html` tiedosto selaimessa
+3. Sovellus toimii paikallisesti ilman lisäasennuksia
+
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+[Ajax-sovellus] on valmis käytettäväksi
+
 
 ## Credits
 List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- [OpenAI (2025). ChatGPT.](https://chat.openai.com/)
+- [MDN contributors. (2024). Fetch API.](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
 Example: MIT license @ [author](author.com)
