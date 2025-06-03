@@ -48,9 +48,10 @@ Ajax-sovellus on valmis käytettäväksi
 
 ## Credits
 List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [OpenAI (2025). ChatGPT.](https://chat.openai.com/)
-- [MDN contributors. (2024). Fetch API.](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [OpenAI (2025). ChatGPT.](https://chat.openai.com/) Käytetty esim. ohjeistamiseen ja virheiden korjaamiseen
+- [MDN contributors. (2024). Fetch API.](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) Fetch-kutsujen dokumentaatio
+- OMDb API ja Finnkino API. Tiedonhaku elokuvista
 
 
 ## License
-Example: MIT license
+MIT license
