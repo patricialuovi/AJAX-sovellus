@@ -19,7 +19,7 @@ Tein itse kaiken
 - [License](#license)
 
 ## About The App
-[Ajax-sovellus] on yksinkertainen elokuvainfo-sovellus, joka käyttää Finnkinon ja OMDb:n avoimia REST API -rajapintoja. Sovelluksen avulla käyttäjä voi:
+Ajax-sovellus on yksinkertainen elokuvainfo-sovellus, joka käyttää Finnkinon ja OMDb:n avoimia REST API -rajapintoja. Sovelluksen avulla käyttäjä voi:
 
 - Valita elokuvateatterin pudotusvalikosta
 - Nähdä teatterin käynnissä olevat elokuvat ja niiden kuvat ja ajat
@@ -43,7 +43,7 @@ I used the following technologies `html`, `css`, `javascript` ja `ajax`
 
 
 ## Status
-[Ajax-sovellus] on valmis käytettäväksi
+Ajax-sovellus on valmis käytettäväksi
 
 
 ## Credits
@@ -53,4 +53,4 @@ List of contriubutors and sources you used during the project. Also mention if y
 
 
 ## License
-Example: MIT license @ [author](author.com)
+Example: MIT license
