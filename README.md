@@ -33,7 +33,7 @@ Add here atleast one screenshot of the working application
 
 
 ## Technologies
-I used the following technologies `html`, `css`, `javascript` ja `ajax`
+I used the following technologies `html`, `css` ja `javascript`
 
 
 ## Setup
